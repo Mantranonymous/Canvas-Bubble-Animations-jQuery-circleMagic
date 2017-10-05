@@ -1,0 +1,29 @@
+{
+  "name": "circlemagic",
+  "description": "bubble effect on javascript",
+  "main": "circleMagic.js",
+  "version": "1.0.0",
+  "authors": [
+    "Andrew Kiri4encko"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "circlemagic",
+    "bubble-effect",
+    "animation"
+  ],
+  "homepage": "https://github.com/FreAK19/circleMagic.js",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests",
+    "package.json",
+    "gulpfile.js",
+    ".gitignore"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
